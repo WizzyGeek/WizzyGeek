@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am teenboom an anonymus developer.
+
+I like Python, HTML/CSS/JS, C/C++
+
+I usually develop bots 🤖 for Myself and My friends.
+
+Most of my work is private.
 <!--
 **TEEN-BOOM/TEEN-BOOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
