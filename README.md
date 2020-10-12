@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-I am teenboom an anonymus developer.
+I am WizzyGeek (fka teen-boom) an anonymus developer.
+Please refer to me as Wizzy or Wiz for short.
 
 I like Python, HTML/CSS/JS, C/C++
 
 I usually develop bots 🤖 for Myself and My friends.
 
 Most of my work is private.
+
+Pronouns: He/Him/His
 <!--
 **TEEN-BOOM/TEEN-BOOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
