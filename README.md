@@ -1,28 +1,27 @@
-### Hi there 👋
+<a href="https://wizzygeek.github.io">
+    <h2 align="center">I am WizzyGeek.</h2>
+</a>
 
-I am WizzyGeek (fka teen-boom) an anonymus developer.
-Please refer to me as Wizzy or Wiz for short.
+<hr>
 
-I like Python, HTML/CSS/JS, C/C++
+## About me
 
-I usually develop bots 🤖 for Myself and My friends.
+- 🔭 I’m currently working on Python, C/C++
+- 🌱 I’m currently learning Java, NodeJS
+- 😄 Pronouns: He, Him
+- ⚡ Fun fact: I am in Junior college as of 2020
+- 📫 How to reach me: 
+      <a href="https://twitter.com/WizzyGeek">**Twitter**</a>, 
+      <a href="mailto:ojasscoding@gmail.com">**Email**</a>, 
+      <a href="https://www.reddit.com/user/WizzyGeek">**Reddit?**</a>
+- 💬 Ask me about Asynchronous programming
+- ❤ I like: **Python, HTML/CSS/JS, C/C++** *(in order)*
+- 🔒 Most of my work is private
+- 🛠 I usually develop bots 🤖 for Myself and My friends.
 
-Most of my work is private.
+### Github Stats
 
-Pronouns: He/Him/His
-<!--
-**TEEN-BOOM/TEEN-BOOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![WizzyGeek's github stats](https://github-readme-stats.vercel.app/api?username=WizzyGeek&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WizzyGeek&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical"/>
+</a>
