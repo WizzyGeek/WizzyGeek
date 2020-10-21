@@ -1,4 +1,7 @@
 <a href="https://wizzygeek.github.io"><h1 align="center">I am WizzyGeek.</h1></a>
+<h4 align="center">
+      A guy who codes, sometimes...
+</h4>
 
 <!-- <hr> -->
 
@@ -23,3 +26,4 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WizzyGeek&theme=radical"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical"/>
 </a>
+ 
