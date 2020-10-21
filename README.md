@@ -1,6 +1,4 @@
-<a href="https://wizzygeek.github.io">
-    <h2 align="center">I am WizzyGeek.</h2>
-</a>
+<a href="https://wizzygeek.github.io"><h2 align="center">I am WizzyGeek.</h2></a>
 
 <hr>
 
@@ -22,6 +20,6 @@
 ### Github Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WizzyGeek&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=WizzyGeek&theme=radical"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical"/>
 </a>
