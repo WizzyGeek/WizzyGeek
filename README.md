@@ -9,7 +9,7 @@
 
 - 🔠 I changed my name from TEEN-BOOM to WizzyGeek recently
 - 🔭 I’m currently working on **Python, C/C++**
-- 🌱 I’m currently learning **Java, NodeJS**
+- 🌱 I’m currently learning **~~Java, NodeJS,~~ Rust**
 - 😄 Pronouns: **He, Him**
 - ⚡ Fun fact: I am in Junior college as of 2020
 - 📫 How to reach me: 
