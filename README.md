@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Python, C/C++**
 - 🌱 I’m currently learning **~~Java, NodeJS,~~ Rust**
 - 😄 Pronouns: **He, Him**
-- ⚡ Fun fact: I am in Junior college as of 2020
+- ⚡ Fun fact: WebViews are better than native
 - 📫 How to reach me: 
       <a href="https://twitter.com/WizzyGeek">**Twitter**</a>, 
       <a href="mailto:ojasscoding@gmail.com">**Email**</a>, 
