@@ -16,7 +16,7 @@
 
 - 🔠 I changed my name from TEEN-BOOM to WizzyGeek recently
 - 🔭 I’m currently working on **Python, C/C++**
-- 🌱 I’m currently learning **~~Java, NodeJS,~~ Rust**
+- 🌱 I’m currently learning **~~Java, NodeJS, Rust~~** API and Library design
 - 😄 Pronouns: **He, Him**
 - 📫 How to reach me: 
       <a href="https://twitter.com/WizzyGeek">**Twitter**</a>, 
