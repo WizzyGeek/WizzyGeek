@@ -15,7 +15,7 @@
 <a href="https://youtu.be/cw9FIeHbdB8"><h2> About me </h2></a>
 
 - 🔭 I’m currently working on **Python, C/C++**
-- 🌱 I’m currently "How do I dynamically create an x86 subroutine?! please help even creating an executable from the routine is fine."
+- 🌱 I’m currently optimising brainfuck and making x86 assembly bytecode by hand for brainfuck code 
 - 😄 Pronouns: **He, Him**
 - 📫 How to reach me: 
       <a href="https://twitter.com/WizzyGeek">**Twitter**</a>, 
