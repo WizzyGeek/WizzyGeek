@@ -33,3 +33,5 @@
           <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical&layout=compact"/>
       </a>
 </div>
+
+*No, I don't use jupyter that much, I don't know how it calculated that percentage*
