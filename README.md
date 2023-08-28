@@ -1,12 +1,12 @@
 <a href="https://wizzygeek.github.io"><h1 align="center">I am WizzyGeek.</h1></a>
 <div align="center">
       <h4 align="center">A guy who codes, sometimes...</h4>
-      <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg"/> 
+<!--       <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg"/> 
       <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
       <img src="https://forthebadge.com/images/badges/reading-6th-grade-level.svg"/> <br/>
       <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg"/>
       <img src="https://forthebadge.com/images/badges/made-with-c.svg"/>
-      <img src="https://forthebadge.com/images/badges/made-with-python.svg"/><br/>
+      <img src="https://forthebadge.com/images/badges/made-with-python.svg"/><br/> -->
       <img src="https://img.shields.io/static/v1?label=regularly%20uses&message=black%20magic&color=6f0b4f&labelColor=24020f&style=for-the-badge"/>
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WizzyGeek/WizzyGeek?label=Last%20Cared%20About%20this&style=for-the-badge"/>
 </div>
@@ -18,9 +18,9 @@
 - 🌱 I’m currently optimising brainfuck and making x86 assembly bytecode by hand for brainfuck code 
 - 😄 Pronouns: **He, Him**
 - 📫 How to reach me: 
-      <a href="https://twitter.com/WizzyGeek">**Twitter**</a>, 
+      <a href="https://twitter.com/WizzyGeek">~**Twitter**~</a>, 
       <a href="mailto:ojasscoding@gmail.com">**Email**</a>, 
-      <a href="https://www.reddit.com/user/WizzyGeek">**Reddit?**</a>
+      <a href="https://www.reddit.com/user/WizzyGeek">~**Reddit?**~</a>
 - 💬 Ask me about **nothing**
 - ❤ I like: **Python, HTML/CSS/JS, C/C++**
 - 🔒 Most of my work is **private**
