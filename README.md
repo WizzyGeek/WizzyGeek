@@ -12,19 +12,19 @@
 </div>
 <!-- <hr> -->
 
-<a href="https://youtu.be/cw9FIeHbdB8"><h2> About me </h2></a>
+<h2> <a href="https://youtu.be/cw9FIeHbdB8">About me</a> </h2>
 
-- 🔭 I’m currently working on **Python, C/C++**
-- 🌱 I’m currently optimising brainfuck and making x86 assembly bytecode by hand for brainfuck code 
+- 🔭 I’m currently working on a framework for test vector leakage assesment
+- 🌱 I’m currently learning haskell
 - 😄 Pronouns: **He, Him**
 - 📫 How to reach me: 
       <a href="https://twitter.com/WizzyGeek">~**Twitter**~</a>, 
       <a href="mailto:ojasscoding@gmail.com">**Email**</a>, 
       <a href="https://www.reddit.com/user/WizzyGeek">~**Reddit?**~</a>
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **Maths, Optimisation (problems and code), concurrency, System Design and Graph Theory**
 - ❤ I like: **Python, HTML/CSS/JS, C/C++**
 - 🔒 Most of my work is **private**
-- 💩 I like to bingecode so I write a lot of shitty code
+- ~~💩 I like to bingecode so I write a lot of shitty code~~ *I do not bingecode any longer, I simply write code to satisfy my never ending hunger for solving problems.*
 
 <h2 align="center"> Github Stats </h2>
 <div align="center">
