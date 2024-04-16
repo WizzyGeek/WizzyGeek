@@ -1,6 +1,6 @@
 <a href="https://wizzygeek.github.io"><h1 align="center">I am WizzyGeek.</h1></a>
 <div align="center">
-      <h4 align="center">A guy who codes, sometimes...</h4>
+      <h4 align="center">Software built by me, for me</h4>
 <!--       <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg"/> 
       <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg"/>
       <img src="https://forthebadge.com/images/badges/reading-6th-grade-level.svg"/> <br/>
@@ -14,17 +14,18 @@
 
 <h2> <a href="https://youtu.be/cw9FIeHbdB8">About me</a> </h2>
 
-- 🔭 I’m currently working on a framework for test vector leakage assesment
+- 🔭 I’m currently working on projecteuler problems
 - 🌱 I’m currently learning haskell
 - 😄 Pronouns: **He, Him**
-- 📫 How to reach me: 
+- 📫 How to reach me:
       <a href="https://twitter.com/WizzyGeek">~**Twitter**~</a>, 
-      <a href="mailto:ojasscoding@gmail.com">**Email**</a>, 
+      <a href="mailto:ojasscoding@gmail.com">**Email**</a>, discord @wizzygeek,
       <a href="https://www.reddit.com/user/WizzyGeek">~**Reddit?**~</a>
+
 - 💬 Ask me about **Maths, Optimisation (problems and code), concurrency, System Design and Graph Theory**
 - ❤ I like: **Python, HTML/CSS/JS, C/C++**
 - 🔒 Most of my work is **private**
-- ~~💩 I like to bingecode so I write a lot of shitty code~~ *I do not bingecode any longer, I simply write code to satisfy my never ending hunger for solving problems.*
+- ~~💩 I like to bingecode so I write a lot of shitty code~~ *I do not bingecode any longer, I simply write code to satisfy my never ending hunger for solving problems.
 
 <h2 align="center"> Github Stats </h2>
 <div align="center">
@@ -33,5 +34,44 @@
           <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical&layout=compact"/>
       </a>
 </div>
+<i><sub>No, I don't use jupyter that much, I don't know how it calculated that percentage</sub></i>
 
-*No, I don't use jupyter that much, I don't know how it calculated that percentage*
+<h2 align="center"> Project Euler </h2>
+<div align="center">
+      <p>Project euler has some of the most satisfying problems, useful for breaking code famines. check it out!</p>
+      <img src="https://projecteuler.net/profile/WizzyGeek.png"/>
+</div>
+
+<h2 align="center"> My Interests </h2>
+
+| Hate                                                | Dislike                | Like                     | Love                           |
+| --------------------------------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| x86 ISA                                             | Modern Low-Level Stuff | C/C++                    | Python                         |
+| Enterprise Software                                 | Useful stuff           | CP                       | Bingecoding                    |
+|                                                     |                        | Statistics               | Discrete Analysis              |
+| Making Physical circuits                            | Electronics            | Redstone Engineering     | Digital Logic                  |
+| AI generated junk code                              | Unreadable code        | Branchless Programming   | Code Golfing                   |
+|                                                     |                        | Functional Programming   | Haskell                        |
+|                                                     |                        | Probabilistic Algorithms | Approximations                 |
+|                                                     |                        | Heuristics               | Bruteforce                     |
+|                                                     |                        | Codeforces               | Advent of code                 |
+| slow code which didn't even save devtime            | Redundant computations | Optimisations            | Speed freaking                 |
+| Containers                                          |                        | Robust builds            | zero dependencies              |
+| Race conditions :(                                  | MIMD / Parallelisation | SIMD                     | Concurrency                    |
+| Getting DDoSed :(                                   |                        | Lazy Computing           | Caching                        |
+|                                                     | Some RDBMS             | Key-Value Stores         | My sweet RAM                   |
+| Reverse Engineering                                 | Designing              | Winging it               | Rewriting till perfection      |
+| NLP Problems                                        | Decision Problems      | Algorithmic Problems     | Optimisation Problems          |
+| Unsolvable                                          | PDEs                   |                          | Mathematical Modelling         |
+|                                                     |                        |                          | Z, Laplace, Fourier transforms |
+| Skewed data                                         | Uniform data           | Predictable sequences    | Normal Data                    |
+| Thinking hard and still not getting the solution :( | thinking hard          | Being Lazy               | Procrastination                |
+|  | | | Calculus |
+| WET | Java | SOLID | OOP |
+| DL (It's fine tbh, but none of my models fit) | | ML | |
+|  | | | Automatas |
+|  | | | Recursion |
+|  | | | Implicit/Subtle Reactivity |
+| Polling | | | Pub-Sub, Observor |
+| No UIs :( | GUIs | CLIs | TUIs |
+
