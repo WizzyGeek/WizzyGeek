@@ -21,7 +21,6 @@
       <a href="https://twitter.com/WizzyGeek">~**Twitter**~</a>, 
       <a href="mailto:ojasscoding@gmail.com">**Email**</a>, discord @wizzygeek,
       <a href="https://www.reddit.com/user/WizzyGeek">~**Reddit?**~</a>
-
 - 💬 Ask me about **Maths, Optimisation (problems and code), concurrency, System Design and Graph Theory**
 - ❤ I like: **Python, HTML/CSS/JS, C/C++**
 - 🔒 Most of my work is **private**
@@ -43,6 +42,9 @@
 </div>
 
 <h2 align="center"> My Interests </h2>
+
+<details>
+<summary>A really huge list, do not open unless you NEED to</summary>
 
 | Hate                                                | Dislike                | Like                     | Love                           |
 | --------------------------------------------------- | ---------------------- | ------------------------ | ------------------------------ |
@@ -74,4 +76,6 @@
 |  | | | Implicit/Subtle Reactivity |
 | Polling | | | Pub-Sub, Observor |
 | No UIs :( | GUIs | CLIs | TUIs |
+
+</details>
 
