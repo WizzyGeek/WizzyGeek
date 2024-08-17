@@ -19,7 +19,8 @@
 - 😄 Pronouns: **He, Him**
 - 📫 How to reach me:
       <a href="https://twitter.com/WizzyGeek">~**Twitter**~</a>, 
-      <a href="mailto:ojasscoding@gmail.com">**Email**</a>, discord @wizzygeek,
+      <!-- <a href="mailto:ojasscoding@gmail.com">**Email**</a>, -->
+      discord @wizzygeek,
       <a href="https://www.reddit.com/user/WizzyGeek">~**Reddit?**~</a>
 - 💬 Ask me about **Maths, Optimisation (problems and code), concurrency, System Design and Graph Theory**
 - ❤ I like: **Python, HTML/CSS/JS, C/C++**
