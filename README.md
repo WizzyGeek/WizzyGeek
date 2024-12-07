@@ -30,8 +30,8 @@
 <h2 align="center"> Github Stats </h2>
 <div align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WizzyGeek&theme=radical"/>
-          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical&layout=compact"/>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WizzyGeek&theme=radical&include_all_commits=true&count_private=true"/>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical&layout=compact&langs_count=16"/>
       </a>
 </div>
 <i><sub>No, I don't use jupyter that much, I don't know how it calculated that percentage</sub></i>
