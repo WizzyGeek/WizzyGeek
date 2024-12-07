@@ -25,13 +25,13 @@
 - 💬 Ask me about **Maths, Optimisation (problems and code), concurrency, System Design and Graph Theory**
 - ❤ I like: **Python, HTML/CSS/JS, C/C++**
 - 🔒 Most of my work is **private**
-- ~~💩 I like to bingecode so I write a lot of shitty code~~ *I do not bingecode any longer, I simply write code to satisfy my never ending hunger for solving problems.
+- ~~💩 I like to bingecode so I write a lot of shitty code~~ *I do not bingecode any longer, I simply write code to satisfy my never ending hunger for solving problems.*
 
 <h2 align="center"> Github Stats </h2>
 <div align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=VegDet,ShittyNN&hide=Makefile&layout=compact"/>
           <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WizzyGeek&theme=radical&include_all_commits=true&count_private=true"/>
-          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical&layout=compact&langs_count=10"/>
       </a>
 </div>
 <i><sub>No, I don't use jupyter that much, I don't know how it calculated that percentage</sub></i>
