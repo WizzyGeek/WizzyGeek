@@ -30,7 +30,7 @@
 <h2 align="center"> Github Stats </h2>
 <div align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical&langs_count=10&size_weight=0.5&count_weight=0.5&exclude_repo=VegDet,ShittyNN&hide=Makefile,html,css&layout=compact"/>
+          <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WizzyGeek&theme=radical&langs_count=8&size_weight=0.3&count_weight=0.5&exclude_repo=VegDet,ShittyNN&hide=Makefile,html,css&layout=compact"/>
           <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WizzyGeek&theme=radical&include_all_commits=true&count_private=true"/>
       </a>
 </div>
